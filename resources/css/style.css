@@ -1,3 +1,37 @@
+* {
+  background-color: black;
+}
+
 h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
   text-align: center;
+  color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.anchor {
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+  href: '#'
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
 }
